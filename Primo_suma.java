@@ -1,4 +1,4 @@
-package estudio;
+package ;
 import java.util.*;
 
 public class Primo_suma
